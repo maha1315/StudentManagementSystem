@@ -70,12 +70,6 @@ $ git clone https://github.com/LuisSalas94/Student-Management-System
 
 With these steps, you'll have the necessary environment set up to run the Spring Boot backend and the React frontend of the application locally.
 
-## Author 👤
-
-- GitHub: [@LuisSalas94](https://github.com/LuisSalas94)
-- LinkedIn: [Fernando Salas](https://www.linkedin.com/in/luisfernandosalasgave/)
-- Medium: [Fernando Salas](https://medium.com/@luisfernandosalasg)
-- Portfolio: [Link](https://fernando-salas-portfolio.netlify.app/)
 
 ## Contributing 🤝
 
@@ -83,12 +77,5 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## License 📝
-
-This project is [MIT](./MIT.md) licensed.  
 
 
